@@ -3,6 +3,7 @@
 
 ## 导读
 
+
 本系列文章目的是分析源码，具体使用方法虽然会涉及，但不多。你应该在对Fresco的使用方法有一定了解之后再来阅读这些文章，推荐[Fresco中文文档](http://fresco-cn.org/docs/)来了解它的使用方法。
 
 ### Fresco中几个基本设计模式
@@ -35,7 +36,7 @@ Fresco的解码能力是它的一大特色，它会根据不同平台放置解�
 
 作者总结了Fresco的架构图如下：
 
-![Fresco](http://desmondtu.oss-cn-shanghai.aliyuncs.com/Fresco/FrescoN.PNG)
+![Fresco](http://desmondyao.com/image/fresco/fresco.PNG)
 
 其中：
 
